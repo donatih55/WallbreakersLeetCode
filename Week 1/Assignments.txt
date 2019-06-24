@@ -28,12 +28,3 @@ Union find:
 https://leetcode.com/problems/friend-circles
 https://leetcode.com/problems/number-of-islands
 https://leetcode.com/problems/surrounded-regions
-Resources
-Python starting point
-Refresher on strings in Python
-Refresher on lists in Python
-Refresher on modular arithmetic
-Bitwise operations in Python
-https://www.geeksforgeeks.org/union-find/
-https://algocoding.wordpress.com/2014/09/19/union-find-data-structure-disjoint-set-data-structure/
-https://algocoding.wordpress.com/2014/09/25/union-find-data-structure-disjoint-set-data-structure-part-2/
